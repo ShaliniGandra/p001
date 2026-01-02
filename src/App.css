@@ -1,0 +1,11 @@
+.app h1{
+    color: rgb(169, 94, 109);
+    font-family: cursive;
+    font-variant: small-caps;
+    
+}
+h2{
+    color: rgb(82, 48, 0);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-variant: small-caps;
+}
